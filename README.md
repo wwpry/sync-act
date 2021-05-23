@@ -9,3 +9,5 @@
 ### [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wwpry/YYeTsBot)
 ## Odindex
 ### [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/wwpry/OdIndex)
+## maxxin
+### [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/wwpry/bot-zuix)
