@@ -22,5 +22,5 @@ jobs:
 
 env:
      NGROK_TOKEN: ${{ secrets.NGROK_TOKEN }}
-     NGROK_REGION: us
+     NGROK_REGION: au
      SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
